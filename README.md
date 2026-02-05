@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Divya Bharathi 👋
 
-<!--
-**Divya-Bharathi-mk/Divya-Bharathi-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Full-Stack Developer
 
-Here are some ideas to get you started:
+I am passionate about building scalable web applications and currently transitioning into software development.  
+I actively practice coding daily and share my learning journey through GitHub projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+- Learning Python and strengthening programming fundamentals  
+- Practicing Git & GitHub for version control  
+- Building small projects consistently  
+
+---
+
+## 📚 Learning Roadmap
+**Currently Learning**
+- Python  
+- Git & GitHub  
+
+**Next Skills (Planned)**
+- SQL & MySQL  
+- MongoDB  
+- REST APIs  
+- Postman  
+- HTML & CSS  
+- JavaScript  
+- Django  
+
+---
+
+## 🎯 Career Goal
+To become a **Python Full-Stack Developer** and contribute to real-world software projects.
+
+---
+
+## 📂 Projects & Practice
+🔗 Python Basics Repository  
+https://github.com/Divya-Bharathi-mk/python_basics
+
+---
+
+📫 *Open to entry-level developer opportunities*
