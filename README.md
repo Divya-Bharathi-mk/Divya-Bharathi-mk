@@ -17,10 +17,10 @@ I actively practice coding daily and share my learning journey through GitHub pr
 ## 📚 Learning Roadmap
 **Currently Learning**
 - Python  
-- Git & GitHub  
+- Git & GitHub
+- SQL & MySQL 
 
 **Next Skills (Planned)**
-- SQL & MySQL  
 - MongoDB  
 - REST APIs  
 - Postman  
