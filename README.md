@@ -18,14 +18,14 @@ I actively practice coding daily and share my learning journey through GitHub pr
 **Currently Learning**
 - Python  
 - Git & GitHub
-- SQL & MySQL 
+- SQL & MySQL
+- MongoDB
+- Postman
+- JavaScript 
 
-**Next Skills (Planned)**
-- MongoDB  
+**Next Skills (Planned)** 
 - REST APIs  
-- Postman  
 - HTML & CSS  
-- JavaScript  
 - Django  
 
 ---
