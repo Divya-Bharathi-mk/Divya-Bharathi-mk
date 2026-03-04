@@ -21,11 +21,12 @@ I actively practice coding daily and share my learning journey through GitHub pr
 - SQL & MySQL
 - MongoDB
 - Postman
-- JavaScript 
+- JavaScript
+- HTML
 
 **Next Skills (Planned)** 
 - REST APIs  
-- HTML & CSS  
+- CSS  
 - Django  
 
 ---
