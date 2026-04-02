@@ -40,6 +40,11 @@ To become a **Python Full-Stack Developer** and contribute to real-world softwar
 ## 📂 Projects & Practice
 🔗 Python Basics Repository  
 https://github.com/Divya-Bharathi-mk/python_basics
+https://github.com/Divya-Bharathi-mk/HTML
+https://github.com/Divya-Bharathi-mk/Static-website
+https://github.com/Divya-Bharathi-mk/My_SQL
+https://github.com/Divya-Bharathi-mk/my-portfolio
+https://github.com/Divya-Bharathi-mk/-Basic-Flask-App
 
 ---
 
