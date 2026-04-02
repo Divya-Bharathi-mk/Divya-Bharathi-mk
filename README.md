@@ -40,10 +40,15 @@ To become a **Python Full-Stack Developer** and contribute to real-world softwar
 ## 📂 Projects & Practice
 🔗 Python Basics Repository  
 https://github.com/Divya-Bharathi-mk/python_basics
+🔗 HTML Basics Repository  
 https://github.com/Divya-Bharathi-mk/HTML
+🔗 HTML Basics Repository 
 https://github.com/Divya-Bharathi-mk/Static-website
+🔗 SQL Basics Repository 
 https://github.com/Divya-Bharathi-mk/My_SQL
+🔗 HTML and Boostrap Basics Repository 
 https://github.com/Divya-Bharathi-mk/my-portfolio
+🔗 Flask Basics Repository 
 https://github.com/Divya-Bharathi-mk/-Basic-Flask-App
 
 ---
