@@ -35,27 +35,5 @@ I actively practice coding daily and share my learning journey through GitHub pr
 ## 🎯 Career Goal
 To become a **Python Full-Stack Developer** and contribute to real-world software projects.
 
----
-
-## 📂 Projects & Practice
-🔗 Python Basics Repository  
-https://github.com/Divya-Bharathi-mk/python_basics
-## 📂 Projects & Practice
-🔗 HTML Basics Repository  
-https://github.com/Divya-Bharathi-mk/HTML
-## 📂 Projects & Practice
-🔗 HTML Basics Repository 
-https://github.com/Divya-Bharathi-mk/Static-website
-## 📂 Projects & Practice
-🔗 SQL Basics Repository 
-https://github.com/Divya-Bharathi-mk/My_SQL
-## 📂 Projects & Practice
-🔗 HTML and Boostrap Basics Repository 
-https://github.com/Divya-Bharathi-mk/my-portfolio
-## 📂 Projects & Practice
-🔗 Flask Basics Repository 
-https://github.com/Divya-Bharathi-mk/-Basic-Flask-App
-
----
 
 📫 *Open to entry-level developer opportunities*
